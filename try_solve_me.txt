@@ -1,0 +1,3 @@
+####-----------SOLVE THESE---------####
+1>> print hello world
+2>> assign a value and print it
