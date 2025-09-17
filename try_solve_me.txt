@@ -1,3 +1,9 @@
 ####-----------SOLVE THESE---------####
 1>> print hello world
 2>> assign a value and print it
+-----------------------------------
+3>>make a variable with your name and print it
+4>>print the first and last leter of your name
+5>>print the last 5 letters of your name
+6>>print your name in reversed order
+--------------------------------------

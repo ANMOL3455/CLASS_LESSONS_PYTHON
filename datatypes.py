@@ -20,3 +20,4 @@ name = "Alice"  # 'name' is a string variable storing "Alice"
 # - int + int = int
 # - int + float = float
 # - str + str = concatenation of strings
+
