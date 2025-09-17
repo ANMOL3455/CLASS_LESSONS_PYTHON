@@ -19,6 +19,5 @@ print("the last 4 letters of my name are: ",last_4)
 #example reversing the string with the help of reverse index slicing
 reverse_name=name[-1:-9:-1]
 print("the reversed name is",reverse_name)
-
 #now you can create ur own logics and practice make sure to check out the quextions 😊
 
