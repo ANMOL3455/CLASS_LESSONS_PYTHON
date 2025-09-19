@@ -7,3 +7,7 @@
 5>>print the last 5 letters of your name
 6>>print your name in reversed order
 --------------------------------------
+7>>create a complex number and print it
+8>>create a person having name harilal and give him weight and convert into integer
+9>>create a string variable and try converting it into float and see what happens
+----------------------------------------
