@@ -11,3 +11,4 @@
 8>>create a person having name harilal and give him weight and convert into integer
 9>>create a string variable and try converting it into float and see what happens
 ----------------------------------------
+10>>try redeclaring the variable and see the changes
