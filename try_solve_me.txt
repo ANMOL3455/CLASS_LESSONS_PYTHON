@@ -12,3 +12,7 @@
 9>>create a string variable and try converting it into float and see what happens
 ----------------------------------------
 10>>try redeclaring the variable and see the changes
+----------------------------------------
+11>>try declaring all types of collectio  datatypes and printing the datatypes
+    in batch and single also
+---------------------------------------
