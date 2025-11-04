@@ -16,3 +16,7 @@
 11>>try declaring all types of collectio  datatypes and printing the datatypes
     in batch and single also and can take help from datatypes
 ---------------------------------------
+12>>try printing datas by assigning the variables in different output statement
+--------------------------------------
+13>>try pring the sum and averaf=ge of 5 numbers
+--------------------------------------

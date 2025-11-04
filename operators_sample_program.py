@@ -93,7 +93,7 @@ bi=[12,23,45,67,89,90,89]
 print(ai is bi)
 print(ai==bi)
 
-#in is not it give T on different address and F on same address [memory address] 
+#in is not it give T on different address and F on same address [memory address       ] 
 
 
 
