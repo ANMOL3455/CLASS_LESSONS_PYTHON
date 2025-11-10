@@ -43,7 +43,9 @@ if number%3==0 and number%4==0:
 else:
     print("doesnt exactly divides")
     
+
     
+
 
     
     
