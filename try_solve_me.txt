@@ -20,3 +20,18 @@
 --------------------------------------
 13>>try pring the sum and averaf=ge of 5 numbers
 --------------------------------------
+14>>WAP to check if the number is odd or even
+15>>WAP to check the greatest number among 3 numbers
+16>>WAP to print the day name using the day number
+17>>WAP to print the month name using month number
+---------------------------------------
+18>>WAP to find the sum of two numbers
+19>>WAP to find the difference of two numbers
+20>>WAP to find the product,division and other arthemetic operations
+21>>WAP to find the average of 5 numbers
+----------------------------------------
+22>>WAP to find the simple intrest
+23>>WAP to find the area of a square
+24>>WAP to find the area and perimetre of a rectangle
+25>>WAP to find the profit and loss for a given CP and SP
+------------------------------------------
