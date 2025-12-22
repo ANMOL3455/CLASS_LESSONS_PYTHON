@@ -13,5 +13,3 @@ def add(a,b,c):
     average(sum)
     
     
-    
-add(12,34,56)
