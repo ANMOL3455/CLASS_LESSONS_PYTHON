@@ -14,6 +14,7 @@ l2=[1,3,0,5,5,6]
 print(l>l2)
 
 #membership
+
 list0=["anmol","sapkota","hari","ram","kali"]
 for x in list0:
     print(f"The name is: {x}")
